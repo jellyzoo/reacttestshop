@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reacttestshop/static/css/main.2fc88315.css",
+    "main.js": "/reacttestshop/static/js/main.015d5222.js",
+    "static/js/787.b701888c.chunk.js": "/reacttestshop/static/js/787.b701888c.chunk.js",
+    "static/media/cont4_cake4.png": "/reacttestshop/static/media/cont4_cake4.5af7493d362e0018ba09.png",
+    "index.html": "/reacttestshop/index.html",
+    "main.2fc88315.css.map": "/reacttestshop/static/css/main.2fc88315.css.map",
+    "main.015d5222.js.map": "/reacttestshop/static/js/main.015d5222.js.map",
+    "787.b701888c.chunk.js.map": "/reacttestshop/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fc88315.css",
+    "static/js/main.015d5222.js"
+  ]
+}
