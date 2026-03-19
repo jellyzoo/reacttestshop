@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/reacttestshop/static/css/main.3cfd7225.css",
-    "main.js": "/reacttestshop/static/js/main.71a54bcf.js",
+    "main.js": "/reacttestshop/static/js/main.47025123.js",
     "static/js/453.a87527cc.chunk.js": "/reacttestshop/static/js/453.a87527cc.chunk.js",
     "static/media/pc_main_02.jpg": "/reacttestshop/static/media/pc_main_02.e47636f52b1966499647.jpg",
     "static/media/pc_main_01.jpg": "/reacttestshop/static/media/pc_main_01.5124fe271fbe8ede8ea9.jpg",
     "static/media/cont3_cake4.png": "/reacttestshop/static/media/cont3_cake4.968746b90b4d00bd09fa.png",
     "index.html": "/reacttestshop/index.html",
     "main.3cfd7225.css.map": "/reacttestshop/static/css/main.3cfd7225.css.map",
-    "main.71a54bcf.js.map": "/reacttestshop/static/js/main.71a54bcf.js.map",
+    "main.47025123.js.map": "/reacttestshop/static/js/main.47025123.js.map",
     "453.a87527cc.chunk.js.map": "/reacttestshop/static/js/453.a87527cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3cfd7225.css",
-    "static/js/main.71a54bcf.js"
+    "static/js/main.47025123.js"
   ]
 }
